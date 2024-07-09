@@ -45,9 +45,9 @@ The Netflix Recommendation System uses a TF-IDF Vectorizer to transform genres i
 ## Usage
 
 1. Ensure your dataset is in the specified path.
-2. Run the script `recommend.py` to see an example recommendation:
+2. Run the script `netflix-recommendation-system.py` to see an example recommendation:
     ```sh
-    python recommend.py
+    python netflix-recommendation-system.py
     ```
 
 3. Modify the script to input your own title:
