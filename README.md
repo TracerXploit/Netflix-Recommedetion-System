@@ -138,7 +138,7 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 
-## contact
+## Contact
 Feel free to reach out with any questions or suggestions:
 
     Email: mihirsathvara32@gmail.com
