@@ -40,7 +40,7 @@ The Netflix Recommendation System uses a TF-IDF Vectorizer to transform genres i
     ```
 
 4. Download the dataset and place it in the project directory:
-    - [Netflix Data](path/to/your/netflixData.csv)
+    - [Netflix Data](netflixData.csv)
 
 ## Usage
 
