@@ -123,7 +123,7 @@ def netflix_recommendation(title):
 print(netflix_recommendation("alive"))
 ```
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
 
@@ -133,11 +133,12 @@ Contributions are welcome! Please follow these steps to contribute:
     4.Push to the branch (git push origin feature-branch).
     5.Create a new Pull Request.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 
+## contact
 Feel free to reach out with any questions or suggestions:
 
     Email: mihirsathvara32@gmail.com
