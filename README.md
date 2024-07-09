@@ -122,6 +122,7 @@ def netflix_recommendation(title):
 # Example recommendation
 print(netflix_recommendation("alive"))
 
+
 Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
@@ -139,5 +140,5 @@ Contact
 
 Feel free to reach out with any questions or suggestions:
 
-    Email: mihirsathvar32@gmail.com
-    GitHub: mihirsathvara56
+    Email: your-email@example.com
+    GitHub: your-username
