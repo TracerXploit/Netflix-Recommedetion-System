@@ -140,5 +140,5 @@ Contact
 
 Feel free to reach out with any questions or suggestions:
 
-    Email: your-email@example.com
-    GitHub: your-username
+    Email: mihirsathvara32@gmail.com
+    GitHub: mihirsathvara56
