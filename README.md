@@ -121,17 +121,17 @@ def netflix_recommendation(title):
 
 # Example recommendation
 print(netflix_recommendation("alive"))
-
+```
 
 ##Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
 
-    Fork the repository.
-    Create a new branch (git checkout -b feature-branch).
-    Commit your changes (git commit -m 'Add some feature').
-    Push to the branch (git push origin feature-branch).
-    Create a new Pull Request.
+    1.Fork the repository.
+    2.Create a new branch (git checkout -b feature-branch).
+    3.Commit your changes (git commit -m 'Add some feature').
+    4.Push to the branch (git push origin feature-branch).
+    5.Create a new Pull Request.
 
 ##License
 
